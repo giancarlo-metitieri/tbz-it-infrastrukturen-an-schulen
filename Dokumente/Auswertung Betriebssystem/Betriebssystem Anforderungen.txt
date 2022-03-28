@@ -1,0 +1,13 @@
+-Gratis
+-Sicher
+-Kann basische Tools wie OpenOffice benutzen
+-Leicht aufzusetzen (Verlust oder Beschaedigung von RPI)
+-Kann auf das Internet zugreifen (Server)
+-Einfach zu bedienen
+-Läuft auf ARM
+-Lightweight auf Hardware Resourcen
+
+Das Betriebssystem soll leicht zu bedienen und installieren sein, da man so den Schüler zwei Tools beibringen kann:
+Das Arbeiten mit Linux und das Installieren des Betriebssystemes. Das Betriebssystem soll alle wichtige Programme schon vorinstalliert
+haben wie z.B Office oder Programming IDEs, welche für das Schulunterricht gebraucht werden. Die Linux Distro darf aber nicht zu leicht
+sein, da mann den Schüler auch die verschiedene Commands beibringen kann, welche für das spätere Leben wichtig sind.

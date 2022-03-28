@@ -1,0 +1,8 @@
+Wir haben gefunden, dass das Betriebssystem Sugar ein guter kandidat ist aus zwei Gründe: Man kann
+schnell monitorieren, was andere Studenten machen auf einer Karte mit verschiedenen Aktivitäten
+und das Betriebssystem ist extrem leicht zu bedienen. Das Betriebssystem kann auf Raspberry Pi OS drauf installiert
+werden und braucht verschiedene Commands in Linux um es richtig aufzusetzen. Das Betriebssystem ist fast plug and play
+also man muss dann drin fast nichts mehr konfigurieren, da man das eher in Raspberry Pi OS macht. Das Betriebssystem Sugar ist
+auch gut, da es Open Source ist und speziell für Schulen gemacht wurde. Im Betriebssystem kann man dann auch z.B Scratch
+finden, welches immer mehr an Schulen gebraucht wird. Im Betriebssystem wird auch ein Webbrowser benötigt, welches für die Remote Connection
+zuständig sein soll und da Sugar auf Raspberry Pi OS basiert ist, hat man immer die letzte Version von Firefox.

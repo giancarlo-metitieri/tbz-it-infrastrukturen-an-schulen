@@ -1,0 +1,45 @@
+-Encryption (AES 256)
+-Hosting (Online)
+25 x 100.- monitor = 2500              		1500w	
+25 x  85.- raspberry pi = 2125.-				150w (Kann ausgeschaltet werden Wake on Lan)
+1 x  550.- networking 25 switches = 550.-		300w
+2x x3300.- PC Server						2500w
+
+2x i9 12900F 1200.-
+2x mainboard 300.-
+8x ram 32 1800.- 
+2x grafikkarte 1600.-
+2x netzteil 400.-
+2x case 150.-
+2x aio cooler 400.-
+4x hdd 400.-
+2x ssd 150.-
+4x verschiedene Teile 200.-
+6600.-
+
+Jahreskosten
+wattkosten rpi: 330.-
+wattkosten monitor: 1200.-
+wattkosten server: 550w bei standardgebrauch: 2300.- 24/7. Wattkosten bei max gebrauch: 6750.-
+wattkosten networking:1000.-
+------------
+~11000.- ohne Stromkosten
+15000.-  mit Server Idle mit wenig gebrauch Server. Raspberry pi
+19000.-  mit Server 24/7 Max leistung
+
+-----------------------------------------------
+25 x 450.- pc = 11250.-					8750w	/ laptops:	70w x 25 laptops = 1750w (Staendig am Laden)	
+25 x 100.- monitor = 2500              		1500w / laptops: 0;
+2x x3300.- PC Server = 6600.-				2500w
+1  x 550.- networking 25 switches = 550.-		300w
+25 x 15.-  Tastatur = 375.-			
+
+Jahreskosten
+wattkosten pc: 1250.- / laptop 2555.- (20/7 laden)
+wattkosten monitor: 1200.-
+wattkosten server: 6570.- (Lauft 24/7)
+wattkosten networking: 1000.-
+-----------
+~21275.- ohne stromkosten
+32000.-  mit Stromkosten PC
+35500.0  mit Stromkosten Laptops
