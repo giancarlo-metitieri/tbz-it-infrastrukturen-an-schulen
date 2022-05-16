@@ -53,7 +53,19 @@ Die Umsetzung des Projekts kann sich etwas schwierig gestalten, da mehrere Raspb
 
 Die Umsetzung in Form eines Prototypen bzw. mehrereren Prototypen könnte möglich sein, wenn sie in einem kleineren Rahmen, als in einer Primarklasse mit etwa zwanzig Schülern, erfolgt. Der Computer wäre nicht besonders leistungsfähig und es gäbe nur etwa drei Rasperry Pi, Monitore, Peripheriegeräte und die notwendige Verkabelung.
 
-![Picture of visualisation](assets/Cisco.png)
+## Netzwerk
 
 Die Topologie oder auch das Rechennetz wird als Stern-Topologie durchgehen, da mit einem zentralen Server gearbeitet wird. Die Stern-Topologie ist inzwischen die verbreiteteste Verkabelungstopologie.
+
+![Picture of visualisation](assets/Cisco.png)
+
+- 1. WLAN-Controller
+- 2. Access Points
+- 3. Switch
+- 4. Router
+- 5. Modem
+- 6. Server
+- 7. Raspberry Pi's
+
+Ein Wireless LAN-Controller oder WLAN-Controller überwacht und verwaltet drahtlose Zugangspunkte in großen Datenmengen und ermöglicht drahtlosen Geräten die Verbindung mit WLAN, einer drahtlosen Netzwerkarchitektur. Als zentrales Gerät im Netzwerk befindet sich der WLAN-Controller in der Regel im Rechenzentrum, mit dem alle drahtlosen APs im Netzwerk direkt oder indirekt verbunden sind.
 
