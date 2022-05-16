@@ -1,2 +1,6 @@
-theme: jekyll-theme-minimal
+title: Schulprojekt TBZ
 logo: /assets/Illustration.jpg
+description: Minimal is a theme for GitHub Pages.
+show_downloads: 
+google_analytics:
+theme: jekyll-theme-minimal
