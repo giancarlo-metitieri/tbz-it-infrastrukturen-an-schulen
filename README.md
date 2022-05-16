@@ -10,7 +10,7 @@ Unser Ziel ist es dieses Problem mit der alten Hardware so weit wie möglich zu 
 
 ## Energiesparung
 
-Ein Laptop verwendet i.d.R. nur halb so viel Energie und Platz wie ein "Eigenständiger PC". In einer grossen Schule würde das Ersetzen der Computer und Laptops durch sogenannte Raspberry Pi innerhalb viel Geld sparen. Normalerweise gibt es an grossen Schulen noch Computerräume, denn die Transition von PCs zu iPads und Laptops erfolgte nicht so lange her. Hier die Energiekosten innerhalb eines Jahres mit Raspberry Pi’s:
+Ein Laptop verwendet in der Regel nur halb so viel Energie und Platz wie ein "Eigenständiger PC". In einer grossen Schule würde das Ersetzen der Computer und Laptops durch sogenannte Raspberry Pi innerhalb viel Geld sparen. Normalerweise gibt es an grossen Schulen noch Computerräume, denn die Transition von PCs zu iPads und Laptops erfolgte nicht so lange her. Hier die Energiekosten innerhalb eines Jahres mit Raspberry Pi’s:
 
 - ~11'000.- ohne Energiekosten
 
@@ -27,3 +27,17 @@ Und hier derselbe Vergleich mit gewöhnlichen Computer
 - 35'500.- mit Energiekosten Computer + Laptop
 
 Mit unserem Projekt ermöglichen wir die Flexibilität verschiedene Betriebssysteme, die für die jeweiligen Zwecke angepasst sind, auf die Geräte zu installieren. Dies verbesserten den Workflow und das
+
+Da jede Schule andere Bedürfnisse und Preferenzen hat, müssen diese auch beachtet werden, damit man das optimale Erlebnis für die Schüler schaffen kann. Aus diesem Grund gibt es diese Tabelle:
+
+|           | Standard PC                                                              | Raspberry Pi                                                                                   |
+|-----------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Vorteile  | - Betriebssystem ist vorinstalliert<br>  - Mehr Anschlüsse<br>  - Leistungsstark | - All-in-one<br>  - Günstiger<br>  - Portabel<br>  - Energieeffizient<br>  - Bessere Lernerfahrung              |
+| Nachteile | - Nicht portabel<br>  - Aufrüstungen sind teurer<br>  - Weniger Energieeffizient | - Weniger Anschlüsse<br>  - Benötigt viel Zubehör<br>  - Micro SD Karten als Speicher<br>  - Arm Prozessor |
+
+## Umsetzung
+
+Die Umsetzung des Projekts kann sich etwas schwierig gestalten, da mehrere Raspberry Pi's auch nicht gerade günstig sind. Deswegen lohnt es sich mit einem Prototyp anzufangen und diesen für seine Bedürfnisse anzupassen für das optimale Lernerlebnis und dies kann man anschliessend auf die weiteren Raspberry Pi's übertragen.
+
+Die Umsetzung könnte möglich sein, wenn sie in einem kleineren Rahmen, als in einer Primarklasse mit etwa zwanzig Schülern, erfolgt. Der Computer wäre nicht besonders leistungsfähig und es gäbe nur etwa drei Rasperry Pi, Monitore, Peripheriegeräte und die notwendige Verkabelung.
+
