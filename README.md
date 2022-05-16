@@ -45,12 +45,15 @@ Da jede Schule andere Bedürfnisse und Preferenzen hat, müssen diese auch beach
 | Vorteile  | - Betriebssystem ist vorinstalliert<br>  - Mehr Anschlüsse<br>  - Leistungsstark | - All-in-one<br>  - Günstiger<br>  - Portabel<br>  - Energieeffizient<br>  - Bessere Lernerfahrung              |
 | Nachteile | - Nicht portabel<br>  - Aufrüstungen sind teurer<br>  - Weniger Energieeffizient | - Weniger Anschlüsse<br>  - Benötigt viel Zubehör<br>  - Micro SD Karten als Speicher<br>  - ARM Prozessor |
 
+![Picture of visualisation](assets/PCvsPI.png)
+
 ## Umsetzung
 
 Die Umsetzung des Projekts kann sich etwas schwierig gestalten, da mehrere Raspberry Pi's auch nicht gerade günstig sind. Deswegen lohnt es sich mit einem Prototyp anzufangen und diesen für seine Bedürfnisse anzupassen für das optimale Lernerlebnis und dies kann man anschliessend auf die weiteren Raspberry Pi's übertragen.
 
 Die Umsetzung in Form eines Prototypen bzw. mehrereren Prototypen könnte möglich sein, wenn sie in einem kleineren Rahmen, als in einer Primarklasse mit etwa zwanzig Schülern, erfolgt. Der Computer wäre nicht besonders leistungsfähig und es gäbe nur etwa drei Rasperry Pi, Monitore, Peripheriegeräte und die notwendige Verkabelung.
 
-![Picture of visualisation](https://upload.wikimedia.org/wikipedia/commons/5/53/Netzwerktopologie_Stern.png)
+![Picture of visualisation](assets/Cisco.png)
 
-Die Topologie oder auch das Rechennetz wird als Stern-Topologie durchgehen, da mit einem zentralen Server gearbeitet wird.
+Die Topologie oder auch das Rechennetz wird als Stern-Topologie durchgehen, da mit einem zentralen Server gearbeitet wird. Die Stern-Topologie ist inzwischen die verbreiteteste Verkabelungstopologie.
+
